@@ -1,2 +1,3 @@
-# Coursera_Stanford_Algorithms
+# Coursera Stanford Algorithms
+
 Coursework for Stanfords algorithm class on Coursera
